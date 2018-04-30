@@ -1,0 +1,17 @@
+C:/Users/Chaos/source/repos/MoveEstimatorGUI/MoveEstimatorGUI/bin/Debug/MoveEstimatorGUI.exe.config
+C:/Users/Chaos/source/repos/MoveEstimatorGUI/MoveEstimatorGUI/bin/Debug/MoveEstimatorGUI.exe
+C:/Users/Chaos/source/repos/MoveEstimatorGUI/MoveEstimatorGUI/bin/Debug/MoveEstimatorGUI.pdb
+C:/Users/Chaos/source/repos/MoveEstimatorGUI/MoveEstimatorGUI/obj/Debug/MoveEstimatorGUI.csprojResolveAssemblyReference.cache
+C:/Users/Chaos/source/repos/MoveEstimatorGUI/MoveEstimatorGUI/obj/Debug/MoveEstimatorGUI.estimatorWindow.resources
+C:/Users/Chaos/source/repos/MoveEstimatorGUI/MoveEstimatorGUI/obj/Debug/MoveEstimatorGUI.Properties.Resources.resources
+C:/Users/Chaos/source/repos/MoveEstimatorGUI/MoveEstimatorGUI/obj/Debug/MoveEstimatorGUI.csproj.GenerateResource.Cache
+C:/Users/Chaos/source/repos/MoveEstimatorGUI/MoveEstimatorGUI/obj/Debug/MoveEstimatorGUI.csproj.CoreCompileInputs.cache
+C:/Users/Chaos/source/repos/MoveEstimatorGUI/MoveEstimatorGUI/obj/Debug/MoveEstimatorGUI.exe
+C:/Users/Chaos/source/repos/MoveEstimatorGUI/MoveEstimatorGUI/obj/Debug/MoveEstimatorGUI.pdb
+/Volumes/DATA DRIVE/Other/C#/repos/MoveEstimatorGUI/MoveEstimatorGUI/obj/Debug/MoveEstimatorGUI.csprojResolveAssemblyReference.cache
+/Volumes/DATA DRIVE/Other/C#/repos/MoveEstimatorGUI/MoveEstimatorGUI/obj/Debug/MoveEstimatorGUI.estimatorWindow.resources
+/Volumes/DATA DRIVE/Other/C#/repos/MoveEstimatorGUI/MoveEstimatorGUI/obj/Debug/MoveEstimatorGUI.Properties.Resources.resources
+/Volumes/DATA DRIVE/Other/C#/repos/MoveEstimatorGUI/MoveEstimatorGUI/obj/Debug/MoveEstimatorGUI.csproj.GenerateResource.Cache
+/Volumes/DATA DRIVE/Other/C#/repos/MoveEstimatorGUI/MoveEstimatorGUI/obj/Debug/MoveEstimatorGUI.csproj.CoreCompileInputs.cache
+/Volumes/DATA DRIVE/Other/C#/repos/MoveEstimatorGUI/MoveEstimatorGUI/obj/Debug/MoveEstimatorGUI.exe
+/Volumes/DATA DRIVE/Other/C#/repos/MoveEstimatorGUI/MoveEstimatorGUI/obj/Debug/MoveEstimatorGUI.pdb
